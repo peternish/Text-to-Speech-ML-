@@ -4,8 +4,6 @@ Text to speech Service
 This repo aims to push a simple TTS model into production using torchserve, kubernetes and react web app. I also add Jenkine file for a simple CI/CD pipeline. I always aim to build clear template for you to even make better product :smile: 
 ![image](https://github.com/manhph2211/TTSSVC/assets/61444616/1cfdec96-fbba-4626-9751-c982163f3118)
 
-Okay, get started with cloning this repo: 
-```git clone https://github.com/manhph2211/TTSSVC && cd TTSSVC```
 
 # Backend  
 
